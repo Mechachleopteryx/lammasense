@@ -1,4 +1,4 @@
-# ![LMMS Logo](http://lmms.sourceforge.net/Lmms_logo.png) LMMS
+# ![LMMS Logo](http://lmms.sourceforge.net/Lmms_logo.png) Lammasense
 
 [![Build status](https://img.shields.io/travis/LMMS/lmms.svg?maxAge=3600)](https://travis-ci.org/LMMS/lmms)
 [![Latest stable release](https://img.shields.io/github/release/LMMS/lmms.svg?maxAge=3600)](https://lmms.io/download)
@@ -6,10 +6,10 @@
 [![Join the chat at Discord](https://img.shields.io/badge/chat-on%20discord-7289DA.svg)](https://discord.gg/3sc5su7)
 [![Localise on transifex](https://img.shields.io/badge/localise-on_transifex-green.svg)](https://www.transifex.com/lmms/lmms/)
 
-What is LMMS?
+What is Lammasense?
 --------------
 
-LMMS is a free cross-platform alternative to commercial programs like
+Lammasense is a form of LMMS, is a free cross-platform alternative to commercial programs like
 FL Studio®, which allow you to produce music with your computer. This includes
 the creation of melodies and beats, the synthesis and mixing of sounds, and
 arranging of samples. You can have fun with your MIDI-keyboard and much more;
